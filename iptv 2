@@ -1,177 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 09/09/2023 08:50" generator-info-url="t.me/EPG_dobleM">
-  <channel id="Bajo demanda">
-    <display-name lang="es">Bajo demanda</display-name>
-    <display-name lang="es">Bajo demanda.</display-name>
-    <display-name lang="es">Bajo demanda SD</display-name>
-    <display-name lang="es">Bajo demanda HD</display-name>
-    <display-name lang="es">Bajo demanda FHD</display-name>
-    <display-name lang="es">Bajo demanda UHD</display-name>
-    <display-name lang="es">Bajo demanda 720</display-name>
-    <display-name lang="es">Bajo demanda 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Bajo%20demanda.png" />
-  </channel>
-  <channel id="Multideporte">
-    <display-name lang="es">Multideporte</display-name>
-    <display-name lang="es">Multideporte.</display-name>
-    <display-name lang="es">Multideporte SD</display-name>
-    <display-name lang="es">Multideporte HD</display-name>
-    <display-name lang="es">Multideporte FHD</display-name>
-    <display-name lang="es">Multideporte UHD</display-name>
-    <display-name lang="es">Multideporte 720</display-name>
-    <display-name lang="es">Multideporte 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Multideporte.png" />
-  </channel>
-  <channel id="Portada">
-    <display-name lang="es">Portada</display-name>
-    <display-name lang="es">Portada.</display-name>
-    <display-name lang="es">Portada SD</display-name>
-    <display-name lang="es">Portada HD</display-name>
-    <display-name lang="es">Portada FHD</display-name>
-    <display-name lang="es">Portada UHD</display-name>
-    <display-name lang="es">Portada 720</display-name>
-    <display-name lang="es">Portada 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Portada.png" />
-  </channel>
-  <channel id="M+ Vamos HD">
-    <display-name lang="es">M+ Vamos</display-name>
-    <display-name lang="es">M+ Vamos.</display-name>
-    <display-name lang="es">M+ Vamos SD</display-name>
-    <display-name lang="es">M+ Vamos HD</display-name>
-    <display-name lang="es">M+ Vamos FHD</display-name>
-    <display-name lang="es">M+ Vamos UHD</display-name>
-    <display-name lang="es">M+ Vamos 720</display-name>
-    <display-name lang="es">M+ Vamos 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png" />
-  </channel>
-  <channel id="M+ LaLiga TV HD">
-    <display-name lang="es">M+ LaLiga TV</display-name>
-    <display-name lang="es">M+ LaLiga TV.</display-name>
-    <display-name lang="es">M+ LaLiga TV SD</display-name>
-    <display-name lang="es">M+ LaLiga TV HD</display-name>
-    <display-name lang="es">M+ LaLiga TV FHD</display-name>
-    <display-name lang="es">M+ LaLiga TV UHD</display-name>
-    <display-name lang="es">M+ LaLiga TV 720</display-name>
-    <display-name lang="es">M+ LaLiga TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" />
-  </channel>
-  <channel id="DAZN LaLiga HD">
-    <display-name lang="es">DAZN LaLiga</display-name>
-    <display-name lang="es">DAZN LaLiga.</display-name>
-    <display-name lang="es">DAZN LaLiga SD</display-name>
-    <display-name lang="es">DAZN LaLiga HD</display-name>
-    <display-name lang="es">DAZN LaLiga FHD</display-name>
-    <display-name lang="es">DAZN LaLiga UHD</display-name>
-    <display-name lang="es">DAZN LaLiga 720</display-name>
-    <display-name lang="es">DAZN LaLiga 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" />
-  </channel>
-  <channel id="LaLiga TV Hypermotion HD">
-    <display-name lang="es">LaLiga TV Hypermotion</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion.</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion SD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion HD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion FHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion UHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 720</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" />
-  </channel>
-  <channel id="M+ LaLiga TV 2 HD">
-    <display-name lang="es">M+ LaLiga TV 2</display-name>
-    <display-name lang="es">M+ LaLiga TV 2.</display-name>
-    <display-name lang="es">M+ LaLiga TV 2 SD</display-name>
-    <display-name lang="es">M+ LaLiga TV 2 HD</display-name>
-    <display-name lang="es">M+ LaLiga TV 2 FHD</display-name>
-    <display-name lang="es">M+ LaLiga TV 2 UHD</display-name>
-    <display-name lang="es">M+ LaLiga TV 2 720</display-name>
-    <display-name lang="es">M+ LaLiga TV 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202%20HD.png" />
-  </channel>
-  <channel id="DAZN LaLiga 2 HD">
-    <display-name lang="es">DAZN LaLiga 2</display-name>
-    <display-name lang="es">DAZN LaLiga 2.</display-name>
-    <display-name lang="es">DAZN LaLiga 2 SD</display-name>
-    <display-name lang="es">DAZN LaLiga 2 HD</display-name>
-    <display-name lang="es">DAZN LaLiga 2 FHD</display-name>
-    <display-name lang="es">DAZN LaLiga 2 UHD</display-name>
-    <display-name lang="es">DAZN LaLiga 2 720</display-name>
-    <display-name lang="es">DAZN LaLiga 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" />
-  </channel>
-  <channel id="LaLiga TV Hypermotion 2">
-    <display-name lang="es">LaLiga TV Hypermotion 2</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 2.</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 2 SD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 2 HD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 2 FHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 2 UHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 2 720</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" />
-  </channel>
-  <channel id="M+ Liga de Campeones HD">
-    <display-name lang="es">M+ Liga de Campeones</display-name>
-    <display-name lang="es">M+ Liga de Campeones.</display-name>
-    <display-name lang="es">M+ Liga de Campeones SD</display-name>
-    <display-name lang="es">M+ Liga de Campeones HD</display-name>
-    <display-name lang="es">M+ Liga de Campeones FHD</display-name>
-    <display-name lang="es">M+ Liga de Campeones UHD</display-name>
-    <display-name lang="es">M+ Liga de Campeones 720</display-name>
-    <display-name lang="es">M+ Liga de Campeones 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" />
-  </channel>
-  <channel id="M+ Liga de Campeones 2 HD">
-    <display-name lang="es">M+ Liga de Campeones 2</display-name>
-    <display-name lang="es">M+ Liga de Campeones 2.</display-name>
-    <display-name lang="es">M+ Liga de Campeones 2 SD</display-name>
-    <display-name lang="es">M+ Liga de Campeones 2 HD</display-name>
-    <display-name lang="es">M+ Liga de Campeones 2 FHD</display-name>
-    <display-name lang="es">M+ Liga de Campeones 2 UHD</display-name>
-    <display-name lang="es">M+ Liga de Campeones 2 720</display-name>
-    <display-name lang="es">M+ Liga de Campeones 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202%20HD.png" />
-  </channel>
-  <channel id="M+ Liga de Campeones 3 HD">
-    <display-name lang="es">M+ Liga de Campeones 3</display-name>
-    <display-name lang="es">M+ Liga de Campeones 3.</display-name>
-    <display-name lang="es">M+ Liga de Campeones 3 SD</display-name>
-    <display-name lang="es">M+ Liga de Campeones 3 HD</display-name>
-    <display-name lang="es">M+ Liga de Campeones 3 FHD</display-name>
-    <display-name lang="es">M+ Liga de Campeones 3 UHD</display-name>
-    <display-name lang="es">M+ Liga de Campeones 3 720</display-name>
-    <display-name lang="es">M+ Liga de Campeones 3 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203%20HD.png" />
-  </channel>
-  <channel id="M+ Deportes HD">
-    <display-name lang="es">M+ Deportes</display-name>
-    <display-name lang="es">M+ Deportes.</display-name>
-    <display-name lang="es">M+ Deportes SD</display-name>
-    <display-name lang="es">M+ Deportes HD</display-name>
-    <display-name lang="es">M+ Deportes FHD</display-name>
-    <display-name lang="es">M+ Deportes UHD</display-name>
-    <display-name lang="es">M+ Deportes 720</display-name>
-    <display-name lang="es">M+ Deportes 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%20HD.png" />
-  </channel>
-  <channel id="M+ Deportes 2 HD">
-    <display-name lang="es">M+ Deportes 2</display-name>
-    <display-name lang="es">M+ Deportes 2.</display-name>
-    <display-name lang="es">M+ Deportes 2 SD</display-name>
-    <display-name lang="es">M+ Deportes 2 HD</display-name>
-    <display-name lang="es">M+ Deportes 2 FHD</display-name>
-    <display-name lang="es">M+ Deportes 2 UHD</display-name>
-    <display-name lang="es">M+ Deportes 2 720</display-name>
-    <display-name lang="es">M+ Deportes 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202%20HD.png" />
-  </channel>
-  <channel id="M+ Deportes 3">
-    <display-name lang="es">M+ Deportes 3</display-name>
-    <display-name lang="es">M+ Deportes 3.</display-name>
-    <display-name lang="es">M+ Deportes 3 SD</display-name>
-    <display-name lang="es">M+ Deportes 3 HD</display-name>
-    <display-name lang="es">M+ Deportes 3 FHD</display-name>
-    <display-name lang="es">M+ Deportes 3 UHD</display-name>
-    <display-name lang="es">M+ Deportes 3 720</display-name>
-    <display-name lang="es">M+ Deportes 3 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" />
+#EXTM3U
+#EXTINF:0,Afizzionados
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/863.ts
+#EXTINF:0,Bein Sports N
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/866.ts
+#EXTINF:0,CDF Premium
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/868.ts
+#EXTINF:0,Claro Sports SUR
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/869.ts
+#EXTINF:0,Canal Del Futbol |EC|
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/871.ts
+#EXTINF:0,Directv Sports
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/874.ts
+#EXTINF:0,Directv Sports 2
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/877.ts
+#EXTINF:0,Directv Sports Plus
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/879.ts
+#EXTINF:0,Espn Plus
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/881.ts
+#EXTINF:0,Espn 1 Sur
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/882.ts
+#EXTINF:0,Espn 2 Sur
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/884.ts
+#EXTINF:0,Espn 3 Sur
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/887.ts
+#EXTINF:0,Espn 1 MX
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/888.ts
+#EXTINF:0,Espn 2 MX
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/890.ts
+#EXTINF:0,Espn 3 MX
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/891.ts
+#EXTINF:0,Fox Sports Premium SUR
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/892.ts
+#EXTINF:0,Fox Sports Premium MX
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/895.ts
+#EXTINF:0,Futv CostaRica
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/897.ts
+#EXTINF:0,Fox Sports 1 Sur
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/898.ts
+#EXTINF:0,Fox Sports 2 Sur
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/899.ts
+#EXTINF:0,Fox Sports 3 Sur
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/902.ts
+#EXTINF:0,Fox Sports 1 MX
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/905.ts
+#EXTINF:0,Fox Sports 2 MX
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/906.ts
+#EXTINF:0,Fox Sports 3 MX
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/909.ts
+#EXTINF:0,Gol Peru |PE|
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/910.ts
+#EXTINF:0,TNT SPORTS HD
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/912.ts
+#EXTINF:0,TUDN 1 MX
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/913.ts
+#EXTINF:0,TUDN 2 US
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/916.ts
+#EXTINF:0,TVC DEPORTE
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/918.ts
+#EXTINF:0,TYC SPORTS HD
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/921.ts
+#EXTINF:0,VTV HD
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/926.ts
+#EXTINF:0,VTV Plus HD
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/928.ts
+#EXTINF:0,Win Sports
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/929.ts
+#EXTINF:0,Win Sports Plus
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/933.ts
